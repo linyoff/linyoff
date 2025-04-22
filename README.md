@@ -15,9 +15,9 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 Linguagens mais usadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyoff&layout=compact&theme=tokyonight)](https://github.com/linyoff)
+![Aliny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linyoff&show_icons=true&theme=tokyonight)
 
 ## 📫 Contato
 
