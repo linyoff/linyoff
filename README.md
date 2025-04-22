@@ -1,4 +1,4 @@
-# Aliny Alves Dutra
+# Aliny Dutra
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFTM  
 
