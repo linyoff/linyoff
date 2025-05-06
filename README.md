@@ -21,4 +21,4 @@
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/aliny1505dutra) • [GitHub](https://github.com/linyoff) • aliny1505dutra@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aliny1505dutra) • aliny1505dutra@gmail.com
