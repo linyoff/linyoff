@@ -11,10 +11,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyoff&layout=compact&theme=tokyonight)](https://github.com/linyoff)
-![Aliny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linyoff&show_icons=true&theme=tokyonight)
-
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/aliny1505dutra) • aliny1505dutra@gmail.com
